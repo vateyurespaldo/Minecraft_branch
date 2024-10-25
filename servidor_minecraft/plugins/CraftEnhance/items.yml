@@ -1,0 +1,12 @@
+TOTEM_OF_UNDYING:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3120
+  type: TOTEM_OF_UNDYING
+GOLD_BLOCK:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3120
+  type: GOLD_BLOCK
+GOLDEN_APPLE:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3120
+  type: GOLDEN_APPLE

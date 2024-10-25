@@ -1,0 +1,15 @@
+
+#General settings
+[profiles]
+	#Block to put underneath a bed so that it qualifies as a teleporter bed
+	specialBedBlock = "minecraft:diamond_block"
+	selectedProfile = ""
+	selectedCustomJson = ""
+	#The size of the todo queues for the lost city generator
+	#Range: 1 ~ 100000
+	todoQueueSize = 20
+	#If this is true then saplings will grow into trees during generation. This is more expensive
+	forceSaplingGrowth = true
+	#List of structures to avoid when generating cities (for example to avoid generating a city in a woodland mansion)
+	avoidStructures = ["minecraft:mansion", "minecraft:jungle_pyramid", "minecraft:desert_pyramid", "minecraft:igloo", "minecraft:swamp_huts"]
+
